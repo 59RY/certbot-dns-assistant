@@ -1,0 +1,9 @@
+# -- for This Project --------------------
+.env
+
+# -- for Common Environment --------------
+._*
+.DS_Store
+.nova/
+Desktop.ini
+Thumbs.db
