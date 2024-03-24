@@ -1,6 +1,18 @@
 # certbot-dns-assistant
 
-`/* TODO: Write it later */`
+`/* TODO: Write more later */`
+
+## 必須事項
+
+以下のコマンドが利用できること
+
+- awk
+- curl
+- grep
+- jq
+- tr
+
+通常、上記のコマンドが利用できるLinuxがほとんどですが、利用できない場合は適宜パッケージをインストールしてください。
 
 ## レファレンス
 
@@ -17,4 +29,4 @@
 
 ## License
 
-Under the MIT License
+Under the [MIT License](https://licenses.opensource.jp/MIT/MIT.html)
